@@ -30,3 +30,10 @@ All mathematical operations, including cosine similarity and standard deviation,
 ## Example Usage
 ```python
 OP1, OP2, OP3 = main('SampleData_Areas_P2.csv', 'SampleData_Populations_P2.csv')
+```
+## Author
+
+**Taleena Watts**  
+Second-Year Computer Science Student  
+The University of Western Australia  
+[www.linkedin.com/in/taleena-watts-781421201](https://www.linkedin.com/in/taleena-watts-781421201)
